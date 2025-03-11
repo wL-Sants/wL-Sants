@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Wellington | @wL-Sants 🌟</h1>
+<h1 align="center">👾 Wellington | @wL-Sants 👾</h1>
 
 <p align="center">
   <img src="https://s3.gifyu.com/images/bb09g.gif" width="200"/>
@@ -16,29 +16,32 @@
 
 ### 🛠️ Tecnologias que uso:
   
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236db33f.svg?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23e34c26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572b6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-%232c2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+
+---
+
+### 🖥️ Sistema Operacional
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wL-Sants&show_icons=true&theme=tokyonight" alt="Estatísticas do Wellington" />
-</p>
-
-<p align="center">
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wL-Sants&theme=tokyonight" alt="Streak Stats" />
-</p>
+</div>
 
 ---
 
 ### 📫 Contato
-- ✉️ Email: [seu-email@email.com](mailto:seu-email@email.com)
-- 🌎 Linkedin: [Seu Linkedin](https://linkedin.com/in/wL-Sants)
+- ✉️ Email: [wellyngtonsantos59@gmail.com](mailto:seu-email@email.com)
 
 ---
 
-<p align="center">✨ Código, café e criatividade! ✨</p>
+<p align="center"> Transformo café em bug! </p>
